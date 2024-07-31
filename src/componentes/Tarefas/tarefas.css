@@ -1,0 +1,26 @@
+.tarefas {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgb(145, 21, 21);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .tarefas:hover {
+    box-shadow: 0 8px 16px 0 rgb(69, 18, 136);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+
+  .flex-start{
+    display: flex;
+    gap: 10px;
+    margin:10px;
+  }
+
+  .svg-inline--fa{
+    width: 20px;
+    height: auto;
+  }

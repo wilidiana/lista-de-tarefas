@@ -1,0 +1,15 @@
+.ListaDTarefas{
+    background-color: rgb(117, 41, 17);
+    width: 100vw;
+    position: absolute;
+    top:0;
+    right: 0;
+    /*border: 8px;
+    border-style: double;
+    padding: 1%;*/
+}
+
+.figcaption{
+    color: aliceblue;
+    font-size: 3rem;
+}
